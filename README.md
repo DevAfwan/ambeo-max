@@ -1,16 +1,22 @@
-# webapp
+# Flutter Sennheiser Ambeo MAX 
+![image](https://user-images.githubusercontent.com/119871928/207012425-fca4ff68-1a15-459b-a5ca-d6517c4115e6.png)
 
-A new Flutter project.
+## Setup project
 
-## Getting Started
+Download project
+```bash
+git clone https://github.com/mohdafwan/ambeo-max
+```
 
-This project is a starting point for a Flutter application.
+Get flutter dependencies
+```bash
+flutter pub get
+```
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+Run the app
+```bash
+flutter run
+```
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+FLUTTER FOREVER 💙
