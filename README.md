@@ -14,7 +14,7 @@ flutter pub get
 ```
 
 
-Run the app
+Run the web app
 ```bash
 flutter run
 ```
